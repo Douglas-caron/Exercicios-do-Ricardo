@@ -1,4 +1,3 @@
-# Exercicios-do-Ricardo
 
 # Como Executar um Código Python no VS Code
 
